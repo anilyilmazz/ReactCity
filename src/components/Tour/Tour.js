@@ -4,7 +4,7 @@ export default class Tour extends Component {
     render() {
         return (
             <div>
-                Tour Object
+                Tour Object1
             </div>
         )
     }
